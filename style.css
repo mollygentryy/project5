@@ -1,0 +1,48 @@
+body {
+    margin: 50px;
+    background-color:#f9c659;
+     font-family: "Montserrat", sans-serif;
+    font-weight: 50px;
+  font-style: normal;
+         }
+         
+         h1, footer {
+             border: 1px solid black;
+             padding: 20px;
+             border-radius: 10px;
+             background-color: #f9f2e2;
+            font-family: "Montserrat", sans-serif;
+  font-weight: 50px;
+  font-style: normal;
+         }
+         
+iframe {
+   max-width: 100%;
+}
+
+
+h1 {
+    font-family: "Playfair Display", serif;
+  font-weight: 600px;
+  font-style: normal;
+    font-size: 40px;
+}
+h2 {
+ font-family: "Noto Sans", sans-serif;
+  font-weight: 50px;
+  font-style: normal;
+font-size: 25px;
+
+}
+         
+
+
+         section { 
+             
+             border: 1px solid black;
+             border-radius: 10px;
+             padding: 20px;
+             margin: 0 0 20px 0;
+             background-color: #f9f2e2;
+         }
+         
